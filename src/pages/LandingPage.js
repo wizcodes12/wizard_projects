@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import styled, { keyframes, createGlobalStyle } from 'styled-components';
-import profilePic from './test_1.jpeg';
+import profilePic from './new_pic.jpeg';
 const fadeIn = keyframes`
   from { opacity: 0; }
   to { opacity: 1; }
